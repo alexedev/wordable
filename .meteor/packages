@@ -8,14 +8,14 @@ meteor-platform
 autopublish
 insecure
 
-iron:router
-rubaxa:sortable
 semantic:ui-css
-accounts-password
-accounts-facebook
-accounts-github
-useraccounts:semantic-ui
-bengott:avatar
-mizzao:user-status
+
+# rubaxa:sortable
+# accounts-password
+# accounts-facebook
+# accounts-github
+# iandouglas:accounts-ui-semantic-ui
+# bengott:avatar
+# mizzao:user-status
 
 
